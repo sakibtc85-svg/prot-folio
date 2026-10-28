@@ -1,0 +1,24 @@
+{
+  "name": "Najmus Sakib",
+  "short_name": "Sakib",
+  "description": "Najmus Sakib is a web developer from Dhaka, Bangladesh. He builds full websites, e-commerce stores, Python automation, Telegram bots and local AI setups.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b0c0f",
+  "theme_color": "#0b0c0f",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
